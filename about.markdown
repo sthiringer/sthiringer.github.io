@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm currently a fourth-year student at UVA pursuing a B.S. in Computer Science. In August, I'll start work as a Software Development Engineer at Amazon. 
+The purposes of creating this site are many:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Create my own personal space on the internet
+- Use this space to publish my work, thoughts, reflections, etc
+- Use these publications to practice my writing
+- Have a good ol' time
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Currently, I am using the default [Minima](https://github.com/jekyll/minima/) theme for the design of the site, but I plan to hopefully tweak it to my liking at some point. Please get in touch with me if you have any questions or concerns about my work, the website, or any topic whatsoever! 
