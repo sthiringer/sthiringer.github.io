@@ -21,7 +21,7 @@
 title: Steve Thiringer
 email: sjt7zn@virginia.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Science major at UVA. Incoming SDE @ Amazon.
+  2020 UVA CS Grad. Incoming SDE @ Amazon.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://stevethiringer.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sthiringer
